@@ -1,5 +1,6 @@
 load("vinf2.mat")
 rng(1)
+%change1
 n_b = 2;
 n_s = 4;
 n_a = 4;
